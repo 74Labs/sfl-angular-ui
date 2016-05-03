@@ -9,7 +9,11 @@
     "dependencies": {
         "angular-sweetalert": "^1.1.0",
         "angular-toastr": "^1.7.0",
-        "angular-loading": "^0"
+        "angular-loading": "^0",
+        "angular-translate": "^2.11.0",
+        "angular-i18n": "^1.5.3",
+        "angular-translate-handler-log": "^2.11.0",
+        "angular-translate-loader-static-files": "^2.11.0"        
     },
     "license": "MIT",
     "homepage": "https://github.com/74Labs/sfl-angular-ui",
