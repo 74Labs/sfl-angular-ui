@@ -1,0 +1,17 @@
+{
+    "name": "sfl-angular-ui",
+    "version": "1.0.0",
+    "authors": [
+      "SFL <seventy.four.laboratories@gmail.com>"
+    ],
+    "description": "AngularJS UI components facades",
+    "main": "sfl-angular-ui.js",
+    "dependencies": {
+        "angular-sweetalert": "^1.1.0",
+        "angular-toastr": "^1.7.0",
+        "angular-loading": "^0"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/74Labs/sfl-angular-ui",
+    "private": true
+}
